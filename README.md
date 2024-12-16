@@ -1,1 +1,1 @@
-# recursion
+This project was created for The Odin Project and demonstrates competency with recursive algorithms. Within are my solutions to generating n terms of the Fibonacci sequence both iteratively and recursively, as well as performing a merge sort on a given array of numbers recursively.
